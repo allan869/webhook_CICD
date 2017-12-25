@@ -25,4 +25,5 @@
 部署：
 
     1.docker容器运行
-    
+
+![image](https://github.com/allan869/webhook_CICD/blob/master/webhook.png)
